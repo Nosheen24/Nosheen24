@@ -16,7 +16,7 @@
 </h3>
 
 <p align="left">
-  Hi, I'm Nosheen 👋 I studied Computer Engineering at NUST, and honestly, most of my free time goes into building things with LLMs.
+  Hi, I'm Nosheen 👋 I am Computer Engineering graduate from NUST, and honestly, most of my free time goes into building things with LLMs.
   Chatbots that stick to their documents instead of making stuff up. Agents that research and write on their own. A resume screener that's actually live and being used.
 </p>
 
@@ -145,10 +145,15 @@
 <h3 align="left">Connect With Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/nosheen-fatima-55a184250">
-    <img src="https://img.shields.io/badge/LinkedIn-Nosheen%20Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/nosheen-fatima-55a184250" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nosheen2425@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nosheen2425%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:nosheen2425@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="left">
+  📧 nosheen2425@gmail.com
 </p>
