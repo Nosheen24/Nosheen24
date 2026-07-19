@@ -17,7 +17,7 @@
 
 <p align="left">
   I'm a Computer Engineering graduate from NUST who enjoys building intelligent AI systems and complete web products.
-  Most of my work is around LLM applications — RAG pipelines, multi-agent workflows, and AI-powered tools — built with LangChain, CrewAI, FastAPI and Groq-hosted LLaMA models.
+  Most of my work is around LLM applications -- RAG pipelines, multi-agent workflows, and AI-powered tools built with LangChain, CrewAI, FastAPI and Groq-hosted LLaMA models.
   I'm also a full stack developer, so I like taking these ideas all the way from a Python backend to a working React frontend that people can actually use.
 </p>
 
