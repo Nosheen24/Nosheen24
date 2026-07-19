@@ -16,9 +16,17 @@
 </h3>
 
 <p align="left">
-  I'm a Computer Engineering graduate from NUST who enjoys building intelligent AI systems and complete web products.
-  Most of my work is around LLM applications -- RAG pipelines, multi-agent workflows, and AI-powered tools built with LangChain, CrewAI, FastAPI and Groq-hosted LLaMA models.
-  I'm also a full stack developer, so I like taking these ideas all the way from a Python backend to a working React frontend that people can actually use.
+  Hi, I'm Nosheen 👋 I studied Computer Engineering at NUST, and honestly, most of my free time goes into building things with LLMs.
+  Chatbots that stick to their documents instead of making stuff up. Agents that research and write on their own. A resume screener that's actually live and being used.
+</p>
+
+<p align="left">
+  I started out in full stack web development, and it shaped how I build AI projects: I don't like leaving things as a notebook or a demo.
+  If an idea is worth building, it gets a real backend, a real frontend, and a deploy link. Python, LangChain, CrewAI, FastAPI and React are what I reach for most days.
+</p>
+
+<p align="left">
+  Currently looking for AI/LLM Engineer or Full Stack roles. If you're building agents or RAG systems, I'd love to talk.
 </p>
 
 ---
@@ -60,6 +68,18 @@
       <h4><a href="https://github.com/Nosheen24/job-application-tracker">Job Application Tracker</a></h4>
       <p>Chrome extension that captures job posts from career sites, an Express API that stores them, and a React dashboard with filtering and search.</p>
       <p><em>Chrome Extension · React · Express · MongoDB</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Nosheen24/AI-Doctor-App-with-Vision-and-Voice-MultiModal-LLM">AI Doctor with Vision & Voice</a></h4>
+      <p>A medical assistant that can see, listen and talk: it transcribes patient speech with Whisper, analyzes medical images with LLaMA 3 Vision, and speaks its response back.</p>
+      <p><em>LLaMA 3 Vision · Whisper · gTTS/ElevenLabs · Gradio</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Nosheen24/SkillBridge">SkillBridge</a></h4>
+      <p>Backend for a student micro-task platform: 18+ REST endpoints covering auth, profiles, task posting with budgets, and a full bidding workflow.</p>
+      <p><em>FastAPI · Supabase (PostgreSQL) · Pydantic · JWT</em></p>
     </td>
   </tr>
 </table>
@@ -126,9 +146,9 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/nosheen-fatima-55a184250">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Nosheen%20Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nosheen2425@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nosheen2425@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nosheen2425%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
